@@ -1,0 +1,34 @@
+:root {
+    --background: #010101;
+    --text-color: #FAFAE6;
+    --column-background: #232323;
+    --highlights: #CDB377;
+    --guardian-blue: #64FAFA;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--text-color);
+    box-sizing: border-box;
+  }
+
+  main {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+  }
+
+  .column {
+    background-color: var(--column-background);
+    min-height: 200px;
+    flex-grow: 1;
+    padding: 5px;
+
+    display: flex; 
+    flex-direction: column;
+  }
+
+  .column-header {
+      text-align: center;
+  }
