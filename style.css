@@ -1,34 +1,48 @@
 :root {
-    --background: #010101;
-    --text-color: #FAFAE6;
-    --column-background: #232323;
-    --highlights: #CDB377;
-    --guardian-blue: #64FAFA;
-  }
+  --background: #010101;
+  --text-color: #FAFAE6;
+  --column-background: #232323;
+  --highlights: #CDB377;
+  --guardian-blue: #64FAFA;
+}
 
-  body {
-    background-color: var(--background);
-    color: var(--text-color);
-    box-sizing: border-box;
-  }
+@font-face {
+  font-family: Hylian;
+  src: url(HyliaSerifBeta-Regular.otf);
+}
 
-  main {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    column-gap: 10px;
-  }
+h1 {
+  font-family: Hylian;
+}
+body {
+  background-color: var(--background);
+  color: var(--text-color);
+  box-sizing: border-box;
+}
 
-  .column {
-    background-color: var(--column-background);
-    min-height: 200px;
-    flex-grow: 1;
-    padding: 5px;
+main {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  column-gap: 10px;
+}
 
-    display: flex; 
-    flex-direction: column;
-  }
+.column {
+  background-color: var(--column-background);
+  min-height: 200px;
+  flex-grow: 1;
+  padding: 5px;
 
-  .column-header {
-      text-align: center;
-  }
+  display: flex; 
+  flex-direction: column;
+}
+
+.column-header {
+  font-family: Hylian;
+  text-align: center;
+}
+
+.icon {
+  height: auto;
+  width: 96px;
+}
