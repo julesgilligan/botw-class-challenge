@@ -1,190 +1,190 @@
 Name,Type,Subtype,Power,Durability,Guardian,Metal,Monster,Amiibo,Icon
-Ancient Battle Axe,weapon,long,30,15,Y,,Y,,ancientbattleaxeicon.png
-Ancient Battle Axe+,weapon,long,45,20,Y,,Y,,ancientbattleaxepicon.png
-Ancient Battle Axe++,weapon,long,60,25,Y,,Y,,ancientbattleaxeppicon.png
-Ancient Bladesaw,weapon,long,55,50,Y,,,,ancientbladesawicon.png
-Biggoron's Sword,weapon,long,50,60,,Y,,Y,biggoronswordicon.png
-Boat Oar,weapon,long,14,8,,,,,boatoaricon.png
-Boko Bat,weapon,long,6,12,,,Y,,bokobaticon.png
-Boulder Breaker,weapon,long,60,60,,Y,,,boulderbreakericon.png
-Cobble Crusher,weapon,long,15,30,,Y,,,cobblecrushericon.png
-Double Axe,weapon,long,18,52,,Y,,,doubleaxeicon.png
-Dragonbone Boko Bat,weapon,long,36,16,,,Y,,dragonbonebokobaticon.png
-Dragonbone Moblin Club,weapon,long,45,24,,,Y,,dragonbonemoblinclubicon.png
-Edge of Duality,weapon,long,50,35,,Y,,,edgeofdualityicon.png
-Eightfold Longblade,weapon,long,32,25,,Y,,,eightfoldlongbladeicon.png
-Farming Hoe,weapon,long,16,6,,,,,farminghoeicon.png
-Fierce Deity Sword,weapon,long,60,35,,Y,,Y,fiercedeityswordicon.png
-Giant Boomerang,weapon,long,25,40,,Y,,,giantboomerangicon.png
-Golden Claymore,weapon,long,28,30,,Y,,,goldenclaymoreicon.png
-Great Flameblade,weapon,long,34,50,,Y,,,greatflamebladeicon.png
-Great Frostblade,weapon,long,30,40,,Y,,,greatfrostbladeicon.png
-Great Thunderblade,weapon,long,32,50,,Y,,,greatthunderbladeicon.png
-Iron Sledgehammer,weapon,long,12,40,,Y,,,ironsledgehammericon.png
-Knight's Claymore,weapon,long,38,30,,Y,,,knightclaymoreicon.png
-Korok Leaf,weapon,long,1,25,,,,,korokleaficon.png
-Lynel Crusher,weapon,long,36,20,,Y,Y,,lynelcrushericon.png
-Mighty Lynel Crusher,weapon,long,54,25,,Y,Y,,mightylynelcrushericon.png
-Moblin Arm,weapon,long,15,5,,,Y,,moblinarmicon.png
-Moblin Club,weapon,long,9,12,,,Y,,moblinclubicon.png
-Royal Claymore,weapon,long,52,40,,Y,,,royalclaymoreicon.png
-Royal Guard's Claymore,weapon,long,72,15,,Y,,,royalguardclaymoreicon.png
-Rusty Claymore,weapon,long,12,10,,Y,,,rustyclaymoreicon.png
-Savage Lynel Crusher,weapon,long,78,35,,Y,Y,,savagelynelcrushericon.png
-Silver Longsword,weapon,long,22,30,,Y,,,silverlongswordicon.png
-Soldier's Claymore,weapon,long,20,25,,Y,,,soldierclaymoreicon.png
-Spiked Boko Bat,weapon,long,18,12,,,Y,,spikedbokobaticon.png
-Spiked Moblin Club,weapon,long,27,18,,,Y,,spikedmoblinclubicon.png
-Stone Smasher,weapon,long,42,40,,Y,,,stonesmashericon.png
-Sword of the Six Sages,weapon,long,48,50,,Y,,Y,swordofthesixsagesicon.png
-Traveler's Claymore,weapon,long,10,20,,Y,,,travelerclaymoreicon.png
-Windcleaver,weapon,long,40,25,,Y,Y,,windcleavericon.png
-Woodcutter's Axe,weapon,long,3,47,,Y,,,woodcutteraxeicon.png
-Ancient Short Sword,weapon,short,40,54,Y,,,,ancientshortswordicon.png
-Blizzard Rod,weapon,short,10,32,,?,Y,,blizzardrodicon.png
-Boko Club,weapon,short,4,8,,,Y,,bokoclubicon.png
-Bokoblin Arm,weapon,short,5,5,,,Y,,bokoblinarmicon.png
-Boomerang,weapon,short,8,18,,?,,,boomerangicon.png
-Demon Carver,weapon,short,40,25,,Y,Y,,demoncarvericon.png
-Dragonbone Boko Club,weapon,short,24,18,,,Y,,dragonbonebokoclubicon.png
-Eightfold Blade,weapon,short,15,26,,Y,,,eightfoldbladeicon.png
-Feathered Edge,weapon,short,15,27,,Y,,,featherededgeicon.png
-Fire Rod,weapon,short,5,14,,?,Y,,firerodicon.png
-Flameblade,weapon,short,24,36,,Y,,,flamebladeicon.png
-Forest Dweller's Sword,weapon,short,22,27,,,,,forestdwellerswordicon.png
-Frostblade,weapon,short,20,30,,Y,,,frostbladeicon.png
-Gerudo Scimitar,weapon,short,16,23,,Y,,,gerudoscimitaricon.png
-Goddess Sword,weapon,short,28,45,,Y,,Y,goddessswordicon.png
-Guardian Sword,weapon,short,20,17,Y,,Y,,guardianswordicon.png
-Guardian Sword+,weapon,short,30,26,Y,,Y,,guardianswordpicon.png
-Guardian Sword++,weapon,short,40,32,Y,,Y,,guardianswordppicon.png
-Ice Rod,weapon,short,5,14,,?,Y,,icerodicon.png
-Knight's Broadsword,weapon,short,26,27,,Y,,,knightbroadswordicon.png
-Lightning Rod,weapon,short,5,14,,?,Y,,lightningrodicon.png
-Lizal Boomerang,weapon,short,14,17,,Y,Y,,lizalboomerangicon.png
-Lizal Forked Boomerang,weapon,short,24,25,,Y,Y,,lizalforkedboomerangicon.png
-Lizal Tri-Boomerang,weapon,short,36,27,,Y,Y,,lizaltri-boomerangicon.png
-Lizalfos Arm,weapon,short,12,8,,,Y,,lizalfosarmicon.png
-Lynel Sword,weapon,short,24,26,,Y,Y,,lynelswordicon.png
-Master Sword,weapon,short,30,40,,Y,,,masterswordicon.png
-Meteor Rod,weapon,short,10,32,,?,Y,,meteorrodicon.png
-Mighty Lynel Sword,weapon,short,36,32,,Y,Y,,mightylynelswordicon.png
-Moonlight Scimitar,weapon,short,25,32,,Y,,,moonlightscimitaricon.png
-Royal Broadsword,weapon,short,36,36,,Y,,,royalbroadswordicon.png
-Royal Guard's Sword,weapon,short,48,14,,Y,,,royalguardswordicon.png
-Rusty Broadsword,weapon,short,6,8,,Y,,,rustybroadswordicon.png
-Savage Lynel Sword,weapon,short,58,41,,Y,Y,,savagelynelswordicon.png
-Scimitar of the Seven,weapon,short,32,60,,Y,,,scimitarofthesevenicon.png
-Sea-Breeze Boomerang,weapon,short,20,20,,?,,Y,seabreezeboomerangicon.png
-Soldier's Broadsword,weapon,short,14,25,,Y,,,soldierbroadswordicon.png
-Soup Ladle,weapon,short,4,5,,,,,soupladleicon.png
-Spiked Boko Club,weapon,short,12,14,,,Y,,spikedbokoclubicon.png
-Spring-Loaded Hammer,weapon,short,1,80,,?,Y,,spring-loadedhammericon.png
-Sword,weapon,short,22,27,,,,Y,swordicon.png
-Thunderblade,weapon,short,22,36,,Y,,,thunderbladeicon.png
-Thunderstorm Rod,weapon,short,10,32,,?,Y,,thunderstormrodicon.png
-Torch,weapon,short,2,8,,,,,torchicon.png
-Traveler's Sword,weapon,short,5,20,,Y,,,travelerswordicon.png
-Tree Branch,weapon,short,2,4,,,,,treebranchicon.png
-Vicious Sickle,weapon,short,16,14,,Y,Y,,vicioussickleicon.png
-Zora Sword,weapon,short,15,27,,Y,,,zoraswordicon.png
-Ancient Spear,weapon,spear,30,50,Y,,,,ancientspearicon.png
-Boko Spear,weapon,spear,2,12,,,Y,,bokospearicon.png
-Ceremonial Trident,weapon,spear,14,40,,Y,,,ceremonialtridenticon.png
-Dragonbone Boko Spear,weapon,spear,12,20,,,Y,,dragonbonebokospearicon.png
-Dragonbone Moblin Spear,weapon,spear,15,25,,,Y,,dragonbonemoblinspearicon.png
-Drillshaft,weapon,spear,14,50,,Y,,,drillshafticon.png
-Enhanced Lizal Spear,weapon,spear,12,22,,Y,Y,,enhancedlizalspearicon.png
-Farmer's Pitchfork,weapon,spear,7,12,,?,,,farmerpitchforkicon.png
-Feathered Spear,weapon,spear,10,35,,?,,,featheredspearicon.png
-Fishing Harpoon,weapon,spear,8,12,,Y,,,fishingharpoonicon.png
-Flamespear,weapon,spear,24,50,,Y,,,flamespearicon.png
-Forest Dweller's Spear,weapon,spear,11,35,,,,,forestdwellerspearicon.png
-Forked Lizal Spear,weapon,spear,18,28,,Y,Y,,forkedlizalspearicon.png
-Frostspear,weapon,spear,20,40,,Y,,,frostspearicon.png
-Gerudo Spear,weapon,spear,16,35,,Y,,,gerudospearicon.png
-Guardian Spear,weapon,spear,10,20,Y,,Y,,guardianspearicon.png
-Guardian Spear+,weapon,spear,15,25,Y,,Y,,guardianspearpicon.png
-Guardian Spear++,weapon,spear,20,35,Y,,Y,,guardianspearppicon.png
-Knight's Halberd,weapon,spear,13,40,,Y,,,knighthalberdicon.png
-Lightscale Trident,weapon,spear,22,70,,Y,,,lightscaletridenticon.png
-Lizal Spear,weapon,spear,7,18,,Y,Y,,lizalspearicon.png
-Lynel Spear,weapon,spear,14,25,,Y,Y,,lynelspearicon.png
-Mighty Lynel Spear,weapon,spear,20,35,,Y,Y,,mightylynelspearicon.png
-Moblin Spear,weapon,spear,4,15,,Y,Y,,moblinspearicon.png
-Royal Guard's Spear,weapon,spear,32,15,,Y,,,royalguardspearicon.png
-Royal Halberd,weapon,spear,26,50,,Y,,,royalhalberdicon.png
-Rusty Halberd,weapon,spear,5,15,,Y,,,rustyhalberdicon.png
-Savage Lynel Spear,weapon,spear,30,45,,Y,Y,,savagelynelspearicon.png
-Serpentine Spear,weapon,spear,12,35,,Y,,,serpentinespearicon.png
-Silverscale Spear,weapon,spear,12,40,,Y,,,silverscalespearicon.png
-Soldier's Spear,weapon,spear,7,35,,Y,,,soldierspearicon.png
-Spiked Boko Spear,weapon,spear,6,15,,,Y,,spikedbokospearicon.png
-Spiked Moblin Spear,weapon,spear,9,20,,,Y,,spikedmoblinspearicon.png
-Throwing Spear,weapon,spear,6,20,,?,,,throwingspearicon.png
-Thunderspear,weapon,spear,22,50,,Y,,,thunderspearicon.png
-Traveler's Spear,weapon,spear,3,30,,Y,,,travelerspearicon.png
-Wooden Mop,weapon,spear,5,8,,,,,woodenmopicon.png
-Zora Spear,weapon,spear,9,40,,Y,,,zoraspearicon.png
-Ancient Shield,shield,,70,32,Y,,,,ancientshieldicon.png
-Boko Shield,shield,,3,5,,,Y,,bokoshieldicon.png
-Daybreaker,shield,,48,60,,?,,,daybreakericon.png
-Dragonbone Boko Shield,shield,,25,8,,,Y,,dragonbonebokoshieldicon.png
-Emblazoned Shield,shield,,3,12,,?,,,emblazonedshieldicon.png
-Fisherman's Shield,shield,,3,10,,?,,,fishermanshieldicon.png
-Forest Dweller's Shield,shield,,30,18,,,,,forestdwellershieldicon.png
-Gerudo Shield,shield,,20,20,,?,,,gerudoshieldicon.png
-Guardian Shield,shield,,18,10,Y,,Y,,guardianshieldicon.png
-Guardian Shield+,shield,,30,13,Y,,Y,,guardianshieldpicon.png
-Guardian Shield++,shield,,42,20,Y,,Y,,guardianshieldppicon.png
-Hero's Shield,shield,,65,90,,?,,Y,heroshieldicon.png
-Hunter's Shield,shield,,3,10,,?,,,huntershieldicon.png
-Hylian Shield,shield,,90,800,,Y,,,hylianshieldicon.png
-Kite Shield,shield,,14,16,,,,,kiteshieldicon.png
-Knight's Shield,shield,,40,23,,Y,,,knightshieldicon.png
-Lizal Shield,shield,,15,8,,Y,Y,,lizalshieldicon.png
-Lynel Shield,shield,,30,12,,Y,Y,,lynelshieldicon.png
-Mighty Lynel Shield,shield,,44,15,,Y,Y,,mightylynelshieldicon.png
-Pot Lid,shield,,1,10,,,,,potlidicon.png
-Radiant Shield,shield,,35,26,,?,,,radiantshieldicon.png
-Reinforced Lizal Shield,shield,,22,12,,Y,Y,,reinforcedlizalshieldicon.png
-Royal Guard's Shield,shield,,70,14,,Y,,,royalguardshieldicon.png
-Royal Shield,shield,,55,29,,Y,,,royalshieldicon.png
-Rusty Shield,shield,,3,16,,Y,,,rustyshieldicon.png
-Savage Lynel Shield,shield,,62,20,,Y,Y,,savagelynelshieldicon.png
-Shield of the Mind's Eye,shield,,16,16,,?,,,shieldofthemindeyeicon.png
-Silver Shield,shield,,18,20,,Y,,,silvershieldicon.png
-Soldier's Shield,shield,,16,16,,Y,,,soldiershieldicon.png
-Spiked Boko Shield,shield,,10,7,,,Y,,spikedbokoshieldicon.png
-Steel Lizal Shield,shield,,35,15,,Y,Y,,steellizalshieldicon.png
-Traveler's Shield,shield,,4,12,,Y,,,travelershieldicon.png
-Wooden Shield,shield,,2,12,,,,,woodenshieldicon.png
-Ancient Bow,bow,normal,44,120,Y,,,,ancientbowicon.png
-Boko Bow,bow,normal,4,16,,,Y,,bokobowicon.png
-Bow of Light,bow,normal,100,100,,?,,,bowoflighticon.png
-Dragon Bone Boko Bow,bow,normal,24,30,,,Y,,dragonbonebokobowicon.png
-Duplex Bow,bow,normal,14,18,,,Y,,duplexbowicon.png
-Falcon Bow,bow,normal,20,50,,,,,falconbowicon.png
-Forest Dweller's Bow,bow,multi,15,35,,,,,forestdwellerbowicon.png
-Golden Bow,bow,zoom,14,60,,Y,,,goldenbowicon.png
-Great Eagle Bow,bow,multi,28,60,,,,,greateaglebowicon.png
-Knight's Bow,bow,normal,26,48,,Y,,,knightbowicon.png
-Lizal Bow,bow,normal,14,25,,Y,Y,,lizalbowicon.png
-Lynel Bow,bow,multi,10,30,,Y,Y,,lynelbowicon.png
-Mighty Lynel Bow,bow,multi,20,35,,Y,Y,,mightylynelbowicon.png
-Phrenic Bow,bow,zoom,10,45,,,Y,,phrenicbowicon.png
-Reinforced Lizal Bow,bow,normal,25,35,,Y,Y,,reinforcedlizalbowicon.png
-Royal Bow,bow,normal,38,60,,Y,,,royalbowicon.png
-Royal Guard's Bow,bow,normal,50,20,,Y,,,royalguardbowicon.png
-Savage Lynel Bow,bow,multi,32,45,,Y,Y,,savagelynelbowicon.png
-Silver Bow,bow,normal,15,40,,Y,,,silverbowicon.png
-Soldier's Bow,bow,normal,14,36,,Y,,,soldierbowicon.png
-Spiked Boko Bow,bow,normal,12,20,,,Y,,spikedbokobowicon.png
-Steel Lizal Bow,bow,normal,36,50,,Y,Y,,steellizalbowicon.png
-Swallow Bow,bow,normal,9,30,,,,,swallowbowicon.png
-Traveler's Bow,bow,normal,5,22,,,,,travelerbowicon.png
-Twilight Bow,bow,normal,30,100,,?,,Y,twilightbowicon.png
-Wooden Bow,bow,normal,4,20,,,,,woodenbowicon.png
+Ancient Battle Axe,weapon,long,30.0,15.0,Y,,Y,,ancientbattleaxeicon.png
+Ancient Battle Axe+,weapon,long,45.0,20.0,Y,,Y,,ancientbattleaxepicon.png
+Ancient Battle Axe++,weapon,long,60.0,25.0,Y,,Y,,ancientbattleaxeppicon.png
+Ancient Bladesaw,weapon,long,55.0,50.0,Y,,,,ancientbladesawicon.png
+Biggoron's Sword,weapon,long,50.0,60.0,,Y,,Y,biggoronswordicon.png
+Boat Oar,weapon,long,14.0,8.0,,,,,boatoaricon.png
+Boko Bat,weapon,long,6.0,12.0,,,Y,,bokobaticon.png
+Boulder Breaker,weapon,long,60.0,60.0,,Y,,,boulderbreakericon.png
+Cobble Crusher,weapon,long,15.0,30.0,,Y,,,cobblecrushericon.png
+Double Axe,weapon,long,18.0,52.0,,Y,,,doubleaxeicon.png
+Dragonbone Boko Bat,weapon,long,36.0,16.0,,,Y,,dragonbonebokobaticon.png
+Dragonbone Moblin Club,weapon,long,45.0,24.0,,,Y,,dragonbonemoblinclubicon.png
+Edge of Duality,weapon,long,50.0,35.0,,Y,,,edgeofdualityicon.png
+Eightfold Longblade,weapon,long,32.0,25.0,,Y,,,eightfoldlongbladeicon.png
+Farming Hoe,weapon,long,16.0,6.0,,,,,farminghoeicon.png
+Fierce Deity Sword,weapon,long,60.0,35.0,,Y,,Y,fiercedeityswordicon.png
+Giant Boomerang,weapon,long,25.0,40.0,,Y,,,giantboomerangicon.png
+Golden Claymore,weapon,long,28.0,30.0,,Y,,,goldenclaymoreicon.png
+Great Flameblade,weapon,long,34.0,50.0,,Y,,,greatflamebladeicon.png
+Great Frostblade,weapon,long,30.0,40.0,,Y,,,greatfrostbladeicon.png
+Great Thunderblade,weapon,long,32.0,50.0,,Y,,,greatthunderbladeicon.png
+Iron Sledgehammer,weapon,long,12.0,40.0,,Y,,,ironsledgehammericon.png
+Knight's Claymore,weapon,long,38.0,30.0,,Y,,,knightclaymoreicon.png
+Korok Leaf,weapon,long,1.0,25.0,,,,,korokleaficon.png
+Lynel Crusher,weapon,long,36.0,20.0,,Y,Y,,lynelcrushericon.png
+Mighty Lynel Crusher,weapon,long,54.0,25.0,,Y,Y,,mightylynelcrushericon.png
+Moblin Arm,weapon,long,15.0,5.0,,,Y,,moblinarmicon.png
+Moblin Club,weapon,long,9.0,12.0,,,Y,,moblinclubicon.png
+Royal Claymore,weapon,long,52.0,40.0,,Y,,,royalclaymoreicon.png
+Royal Guard's Claymore,weapon,long,72.0,15.0,,Y,,,royalguardclaymoreicon.png
+Rusty Claymore,weapon,long,12.0,10.0,,Y,,,rustyclaymoreicon.png
+Savage Lynel Crusher,weapon,long,78.0,35.0,,Y,Y,,savagelynelcrushericon.png
+Silver Longsword,weapon,long,22.0,30.0,,Y,,,silverlongswordicon.png
+Soldier's Claymore,weapon,long,20.0,25.0,,Y,,,soldierclaymoreicon.png
+Spiked Boko Bat,weapon,long,18.0,12.0,,,Y,,spikedbokobaticon.png
+Spiked Moblin Club,weapon,long,27.0,18.0,,,Y,,spikedmoblinclubicon.png
+Stone Smasher,weapon,long,42.0,40.0,,Y,,,stonesmashericon.png
+Sword of the Six Sages,weapon,long,48.0,50.0,,Y,,Y,swordofthesixsagesicon.png
+Traveler's Claymore,weapon,long,10.0,20.0,,Y,,,travelerclaymoreicon.png
+Windcleaver,weapon,long,40.0,25.0,,Y,Y,,windcleavericon.png
+Woodcutter's Axe,weapon,long,3.0,47.0,,Y,,,woodcutteraxeicon.png
+Ancient Short Sword,weapon,short,40.0,54.0,Y,,,,ancientshortswordicon.png
+Blizzard Rod,weapon,short,10.0,32.0,,?,Y,,blizzardrodicon.png
+Boko Club,weapon,short,4.0,8.0,,,Y,,bokoclubicon.png
+Bokoblin Arm,weapon,short,5.0,5.0,,,Y,,bokoblinarmicon.png
+Boomerang,weapon,short,8.0,18.0,,?,,,boomerangicon.png
+Demon Carver,weapon,short,40.0,25.0,,Y,Y,,demoncarvericon.png
+Dragonbone Boko Club,weapon,short,24.0,18.0,,,Y,,dragonbonebokoclubicon.png
+Eightfold Blade,weapon,short,15.0,26.0,,Y,,,eightfoldbladeicon.png
+Feathered Edge,weapon,short,15.0,27.0,,Y,,,featherededgeicon.png
+Fire Rod,weapon,short,5.0,14.0,,?,Y,,firerodicon.png
+Flameblade,weapon,short,24.0,36.0,,Y,,,flamebladeicon.png
+Forest Dweller's Sword,weapon,short,22.0,27.0,,,,,forestdwellerswordicon.png
+Frostblade,weapon,short,20.0,30.0,,Y,,,frostbladeicon.png
+Gerudo Scimitar,weapon,short,16.0,23.0,,Y,,,gerudoscimitaricon.png
+Goddess Sword,weapon,short,28.0,45.0,,Y,,Y,goddessswordicon.png
+Guardian Sword,weapon,short,20.0,17.0,Y,,Y,,guardianswordicon.png
+Guardian Sword+,weapon,short,30.0,26.0,Y,,Y,,guardianswordpicon.png
+Guardian Sword++,weapon,short,40.0,32.0,Y,,Y,,guardianswordppicon.png
+Ice Rod,weapon,short,5.0,14.0,,?,Y,,icerodicon.png
+Knight's Broadsword,weapon,short,26.0,27.0,,Y,,,knightbroadswordicon.png
+Lightning Rod,weapon,short,5.0,14.0,,?,Y,,lightningrodicon.png
+Lizal Boomerang,weapon,short,14.0,17.0,,Y,Y,,lizalboomerangicon.png
+Lizal Forked Boomerang,weapon,short,24.0,25.0,,Y,Y,,lizalforkedboomerangicon.png
+Lizal Tri-Boomerang,weapon,short,36.0,27.0,,Y,Y,,lizaltri-boomerangicon.png
+Lizalfos Arm,weapon,short,12.0,8.0,,,Y,,lizalfosarmicon.png
+Lynel Sword,weapon,short,24.0,26.0,,Y,Y,,lynelswordicon.png
+Master Sword,weapon,short,30.0,40.0,,Y,,,masterswordicon.png
+Meteor Rod,weapon,short,10.0,32.0,,?,Y,,meteorrodicon.png
+Mighty Lynel Sword,weapon,short,36.0,32.0,,Y,Y,,mightylynelswordicon.png
+Moonlight Scimitar,weapon,short,25.0,32.0,,Y,,,moonlightscimitaricon.png
+Royal Broadsword,weapon,short,36.0,36.0,,Y,,,royalbroadswordicon.png
+Royal Guard's Sword,weapon,short,48.0,14.0,,Y,,,royalguardswordicon.png
+Rusty Broadsword,weapon,short,6.0,8.0,,Y,,,rustybroadswordicon.png
+Savage Lynel Sword,weapon,short,58.0,41.0,,Y,Y,,savagelynelswordicon.png
+Scimitar of the Seven,weapon,short,32.0,60.0,,Y,,,scimitarofthesevenicon.png
+Sea-Breeze Boomerang,weapon,short,20.0,20.0,,?,,Y,seabreezeboomerangicon.png
+Soldier's Broadsword,weapon,short,14.0,25.0,,Y,,,soldierbroadswordicon.png
+Soup Ladle,weapon,short,4.0,5.0,,,,,soupladleicon.png
+Spiked Boko Club,weapon,short,12.0,14.0,,,Y,,spikedbokoclubicon.png
+Spring-Loaded Hammer,weapon,short,1.0,80.0,,?,Y,,spring-loadedhammericon.png
+Sword,weapon,short,22.0,27.0,,,,Y,swordicon.png
+Thunderblade,weapon,short,22.0,36.0,,Y,,,thunderbladeicon.png
+Thunderstorm Rod,weapon,short,10.0,32.0,,?,Y,,thunderstormrodicon.png
+Torch,weapon,short,2.0,8.0,,,,,torchicon.png
+Traveler's Sword,weapon,short,5.0,20.0,,Y,,,travelerswordicon.png
+Tree Branch,weapon,short,2.0,4.0,,,,,treebranchicon.png
+Vicious Sickle,weapon,short,16.0,14.0,,Y,Y,,vicioussickleicon.png
+Zora Sword,weapon,short,15.0,27.0,,Y,,,zoraswordicon.png
+Ancient Spear,weapon,spear,30.0,50.0,Y,,,,ancientspearicon.png
+Boko Spear,weapon,spear,2.0,12.0,,,Y,,bokospearicon.png
+Ceremonial Trident,weapon,spear,14.0,40.0,,Y,,,ceremonialtridenticon.png
+Dragonbone Boko Spear,weapon,spear,12.0,20.0,,,Y,,dragonbonebokospearicon.png
+Dragonbone Moblin Spear,weapon,spear,15.0,25.0,,,Y,,dragonbonemoblinspearicon.png
+Drillshaft,weapon,spear,14.0,50.0,,Y,,,drillshafticon.png
+Enhanced Lizal Spear,weapon,spear,12.0,22.0,,Y,Y,,enhancedlizalspearicon.png
+Farmer's Pitchfork,weapon,spear,7.0,12.0,,?,,,farmerpitchforkicon.png
+Feathered Spear,weapon,spear,10.0,35.0,,?,,,featheredspearicon.png
+Fishing Harpoon,weapon,spear,8.0,12.0,,Y,,,fishingharpoonicon.png
+Flamespear,weapon,spear,24.0,50.0,,Y,,,flamespearicon.png
+Forest Dweller's Spear,weapon,spear,11.0,35.0,,,,,forestdwellerspearicon.png
+Forked Lizal Spear,weapon,spear,18.0,28.0,,Y,Y,,forkedlizalspearicon.png
+Frostspear,weapon,spear,20.0,40.0,,Y,,,frostspearicon.png
+Gerudo Spear,weapon,spear,16.0,35.0,,Y,,,gerudospearicon.png
+Guardian Spear,weapon,spear,10.0,20.0,Y,,Y,,guardianspearicon.png
+Guardian Spear+,weapon,spear,15.0,25.0,Y,,Y,,guardianspearpicon.png
+Guardian Spear++,weapon,spear,20.0,35.0,Y,,Y,,guardianspearppicon.png
+Knight's Halberd,weapon,spear,13.0,40.0,,Y,,,knighthalberdicon.png
+Lightscale Trident,weapon,spear,22.0,70.0,,Y,,,lightscaletridenticon.png
+Lizal Spear,weapon,spear,7.0,18.0,,Y,Y,,lizalspearicon.png
+Lynel Spear,weapon,spear,14.0,25.0,,Y,Y,,lynelspearicon.png
+Mighty Lynel Spear,weapon,spear,20.0,35.0,,Y,Y,,mightylynelspearicon.png
+Moblin Spear,weapon,spear,4.0,15.0,,Y,Y,,moblinspearicon.png
+Royal Guard's Spear,weapon,spear,32.0,15.0,,Y,,,royalguardspearicon.png
+Royal Halberd,weapon,spear,26.0,50.0,,Y,,,royalhalberdicon.png
+Rusty Halberd,weapon,spear,5.0,15.0,,Y,,,rustyhalberdicon.png
+Savage Lynel Spear,weapon,spear,30.0,45.0,,Y,Y,,savagelynelspearicon.png
+Serpentine Spear,weapon,spear,12.0,35.0,,Y,,,serpentinespearicon.png
+Silverscale Spear,weapon,spear,12.0,40.0,,Y,,,silverscalespearicon.png
+Soldier's Spear,weapon,spear,7.0,35.0,,Y,,,soldierspearicon.png
+Spiked Boko Spear,weapon,spear,6.0,15.0,,,Y,,spikedbokospearicon.png
+Spiked Moblin Spear,weapon,spear,9.0,20.0,,,Y,,spikedmoblinspearicon.png
+Throwing Spear,weapon,spear,6.0,20.0,,?,,,throwingspearicon.png
+Thunderspear,weapon,spear,22.0,50.0,,Y,,,thunderspearicon.png
+Traveler's Spear,weapon,spear,3.0,30.0,,Y,,,travelerspearicon.png
+Wooden Mop,weapon,spear,5.0,8.0,,,,,woodenmopicon.png
+Zora Spear,weapon,spear,9.0,40.0,,Y,,,zoraspearicon.png
+Ancient Shield,shield,,70.0,32.0,Y,,,,ancientshieldicon.png
+Boko Shield,shield,,3.0,5.0,,,Y,,bokoshieldicon.png
+Daybreaker,shield,,48.0,60.0,,?,,,daybreakericon.png
+Dragonbone Boko Shield,shield,,25.0,8.0,,,Y,,dragonbonebokoshieldicon.png
+Emblazoned Shield,shield,,3.0,12.0,,?,,,emblazonedshieldicon.png
+Fisherman's Shield,shield,,3.0,10.0,,?,,,fishermanshieldicon.png
+Forest Dweller's Shield,shield,,30.0,18.0,,,,,forestdwellershieldicon.png
+Gerudo Shield,shield,,20.0,20.0,,?,,,gerudoshieldicon.png
+Guardian Shield,shield,,18.0,10.0,Y,,Y,,guardianshieldicon.png
+Guardian Shield+,shield,,30.0,13.0,Y,,Y,,guardianshieldpicon.png
+Guardian Shield++,shield,,42.0,20.0,Y,,Y,,guardianshieldppicon.png
+Hero's Shield,shield,,65.0,90.0,,?,,Y,heroshieldicon.png
+Hunter's Shield,shield,,3.0,10.0,,?,,,huntershieldicon.png
+Hylian Shield,shield,,90.0,800.0,,Y,,,hylianshieldicon.png
+Kite Shield,shield,,14.0,16.0,,,,,kiteshieldicon.png
+Knight's Shield,shield,,40.0,23.0,,Y,,,knightshieldicon.png
+Lizal Shield,shield,,15.0,8.0,,Y,Y,,lizalshieldicon.png
+Lynel Shield,shield,,30.0,12.0,,Y,Y,,lynelshieldicon.png
+Mighty Lynel Shield,shield,,44.0,15.0,,Y,Y,,mightylynelshieldicon.png
+Pot Lid,shield,,1.0,10.0,,,,,potlidicon.png
+Radiant Shield,shield,,35.0,26.0,,?,,,radiantshieldicon.png
+Reinforced Lizal Shield,shield,,22.0,12.0,,Y,Y,,reinforcedlizalshieldicon.png
+Royal Guard's Shield,shield,,70.0,14.0,,Y,,,royalguardshieldicon.png
+Royal Shield,shield,,55.0,29.0,,Y,,,royalshieldicon.png
+Rusty Shield,shield,,3.0,16.0,,Y,,,rustyshieldicon.png
+Savage Lynel Shield,shield,,62.0,20.0,,Y,Y,,savagelynelshieldicon.png
+Shield of the Mind's Eye,shield,,16.0,16.0,,?,,,shieldofthemindeyeicon.png
+Silver Shield,shield,,18.0,20.0,,Y,,,silvershieldicon.png
+Soldier's Shield,shield,,16.0,16.0,,Y,,,soldiershieldicon.png
+Spiked Boko Shield,shield,,10.0,7.0,,,Y,,spikedbokoshieldicon.png
+Steel Lizal Shield,shield,,35.0,15.0,,Y,Y,,steellizalshieldicon.png
+Traveler's Shield,shield,,4.0,12.0,,Y,,,travelershieldicon.png
+Wooden Shield,shield,,2.0,12.0,,,,,woodenshieldicon.png
+Ancient Bow,bow,normal,44.0,120.0,Y,,,,ancientbowicon.png
+Boko Bow,bow,normal,4.0,16.0,,,Y,,bokobowicon.png
+Bow of Light,bow,normal,100.0,100.0,,?,,,bowoflighticon.png
+Dragon Bone Boko Bow,bow,normal,24.0,30.0,,,Y,,dragonbonebokobowicon.png
+Duplex Bow,bow,multi,14.0,18.0,,,Y,,duplexbowicon.png
+Falcon Bow,bow,normal,20.0,50.0,,,,,falconbowicon.png
+Forest Dweller's Bow,bow,multi,15.0,35.0,,,,,forestdwellerbowicon.png
+Golden Bow,bow,zoom,14.0,60.0,,Y,,,goldenbowicon.png
+Great Eagle Bow,bow,multi,28.0,60.0,,,,,greateaglebowicon.png
+Knight's Bow,bow,normal,26.0,48.0,,Y,,,knightbowicon.png
+Lizal Bow,bow,normal,14.0,25.0,,Y,Y,,lizalbowicon.png
+Lynel Bow,bow,multi,10.0,30.0,,Y,Y,,lynelbowicon.png
+Mighty Lynel Bow,bow,multi,20.0,35.0,,Y,Y,,mightylynelbowicon.png
+Phrenic Bow,bow,zoom,10.0,45.0,,,Y,,phrenicbowicon.png
+Reinforced Lizal Bow,bow,normal,25.0,35.0,,Y,Y,,reinforcedlizalbowicon.png
+Royal Bow,bow,normal,38.0,60.0,,Y,,,royalbowicon.png
+Royal Guard's Bow,bow,normal,50.0,20.0,,Y,,,royalguardbowicon.png
+Savage Lynel Bow,bow,multi,32.0,45.0,,Y,Y,,savagelynelbowicon.png
+Silver Bow,bow,normal,15.0,40.0,,Y,,,silverbowicon.png
+Soldier's Bow,bow,normal,14.0,36.0,,Y,,,soldierbowicon.png
+Spiked Boko Bow,bow,normal,12.0,20.0,,,Y,,spikedbokobowicon.png
+Steel Lizal Bow,bow,normal,36.0,50.0,,Y,Y,,steellizalbowicon.png
+Swallow Bow,bow,normal,9.0,30.0,,,,,swallowbowicon.png
+Traveler's Bow,bow,normal,5.0,22.0,,,,,travelerbowicon.png
+Twilight Bow,bow,normal,30.0,100.0,,?,,Y,twilightbowicon.png
+Wooden Bow,bow,normal,4.0,20.0,,,,,woodenbowicon.png
 Arrow,bow,arrow,,,,,,,arrowicon.png
 Fire Arrow,bow,arrow,,,,,,,firearrowicon.png
 Ice Arrow,bow,arrow,,,,,,,icearrowicon.png
@@ -197,3 +197,29 @@ Daruk's Protection,misc,blessing,,,,,,,darukprotectionicon.png
 Urbosa's Fury,misc,blessing,,,,,,,urbosafuryicon.png
 Revali's Gale,misc,blessing,,,,,,,revaligaleicon.png
 Blessings,misc,blessing,,,,,,,blessingsicon.png
+Ancient Set,armor,,,,Y,?,,,ancientsetmodel.png
+Barbarian Set,armor,,,,,,,,barbariansetmodel.png
+Fierce Deity Set,armor,,,,,,,Y,fiercedeitysetmodel.png
+Fireproof Set,armor,,,,,Y,,,fireproofsetmodel.png
+Gerudo Set,armor,,,,,,,,gerudosetmodel.png
+Hero of the Sky Set,armor,,,,,,,Y,herooftheskysetmodel.png
+Hero of the Wild Set,armor,,,,,,,,heroofthewildsetmodel.png
+Hero of Time Set,armor,,,,,,,Y,herooftimesetmodel.png
+Hero of Twilight Set,armor,,,,,,,Y,herooftwilightsetmodel.png
+Hero of Winds Set,armor,,,,,,,Y,heroofwindssetmodel.png
+Hero Set,armor,,,,,,,Y,herosetmodel.png
+Phantom Set,armor,,,,,?,,,phantomsetmodel.png
+Phantom Ganon Set,armor,,,,,?,,,phantomganonsetmodel.png
+Radiant Set,armor,,,,,,,,radiantsetmodel.png
+Royal Guard Set,armor,,,,,,,,royalguardsetmodel.png
+Snowquill Set,armor,,,,,,,,snowquillsetmodel.png
+Soldier's Set,armor,,,,,Y,,,soldiersetmodel.png
+Stealth Set,armor,,,,,,,,stealthsetmodel.png
+Tingle's Set,armor,,,,,,,,tinglesetmodel.png
+Well Worn Outfit,armor,,,,,,,,wellwornoutfitmodel.png
+Zora Set,armor,,,,,?,,,zorasetmodel.png
+Climbing Set,armor,,,,,,,,climbingsetmodel.png
+Dark Set,armor,,,,,,,,darksetmodel.png
+Desert Voe Set,armor,,,,,,,,desertvoesetmodel.png
+Rubber Set,armor,,,,,,,,rubbersetmodel.png
+Hylian Set,armor,,,,,,,,hyliansetmodel.png

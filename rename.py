@@ -6,17 +6,17 @@ target_folder = os.path.dirname(__file__) + "/renameNeeded"
 
 df = pd.read_csv('weapon_data.csv')
 
-print(df.head(5))
 mask = df['Icon'].isnull()
 for ind in df[mask].index:
     name = df['Name'][ind]
-    search_file = name.replace(" ", "-").replace("’","27").replace("'","27").replace("+","3f").lower()
+    search_file = name.replace(" ", "").replace("’","27").replace("'","27").replace("+","3f").lower()
     pattern = re.escape(search_file)
     print("--Working on: " + pattern)
     for file in os.listdir(target_folder):
-        if re.match(pattern, file):
-            cleaned = search_file.replace("27s","").replace("3f", "p").replace("-","") + "icon.png"
-            print(cleaned, file)
+        print(file)
+        if re.search(pattern, file):
+            cleaned = search_file.replace("27s","").replace("3f", "p").replace("_","").lower() + "model.png"
+            print(file, cleaned)
             old_name = os.path.join(target_folder, file)
             new_name = os.path.join(target_folder, cleaned)
 

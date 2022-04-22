@@ -14,32 +14,47 @@
         <h1>
             Breath of the Wild: Character Class Challenge
         </h1>
-        <button onclick="buttonClick()"> Click Me </button>
+        <label for="classSelector">Choose a class:</label>
+        <select name="classSelector" id="selectorList" oninput="classSelected()">
+            <optgroup label="RPG Classes">
+                <option value="1">Alchemist</option>
+                <option value="2">Ancient Warrior</option>
+                <option value="3">Archer</option>
+                <option value="4">Berserker</option>
+                <option value="5">Cavalier</option>
+                <option value="6">Chef</option>
+                <option value="7">Dark Image</option>
+                <option value="8">Druid</option>
+                <option value="9">Explorer</option>
+                <option value="10" selected="selected">Freelancer</option>
+                <option value="11">Hero</option>
+                <option value="12">Mystic Knight</option>
+                <option value="13">Ninja</option>
+                <option value="14">Noble</option>
+                <option value="15">Paladin</option>
+                <option value="16">Queasy</option>
+            </optgroup>
+        </select>
         <main>
-            <article id="weapons" class="column">
-                <div class="column-header">
-                    WEAPONS
-                </div>
+            <article class="column">
+                <h4 class="column-header">WEAPONS</h4>
+                <div id="weapons"></div>
             </article>
-            <article id="bows" class="column">
-                <div class="column-header">
-                    BOWS
-                </div>
+            <article class="column">
+                <h4 class="column-header">BOWS</h4>
+                <div id="bows"></div>
             </article>
-            <article id="shields" class="column">
-                <div class="column-header">
-                    SHIELDS
-                </div>
+            <article class="column">
+                <h4 class="column-header">SHIELDS</h4>
+                <div id="shields"></div>
             </article>
-            <article id="armor" class="column">
-                <div class="column-header">
-                    ARMOR
-                </div>
+            <article class="column">
+                <h4 class="column-header">ARMOR</h4>
+                <div id="armor"></div>
             </article>
-            <article id="other" class="column">
-                <div class="column-header">
-                    OTHER
-                </div>
+            <article class="column">
+                <h4 class="column-header">OTHER</h4>
+                <div id="other"></div>
             </article>
         </main>
     </body>
